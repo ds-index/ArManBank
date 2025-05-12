@@ -46,13 +46,14 @@ Note: If dotnet ef is not installed, run dotnet tool install --global dotnet-ef.
 ```bash
 dotnet run
 ```
+## 📁 Project Structure
 ArManBank/
 │
-├── ArManBank.Console/         ← Main console app
-├── ArManBank.Domain/          ← Entities and models
-├── ArManBank.Data/            ← DbContext & EF migrations
-├── ArManBank.Services/        ← Business logic layer
-└── README.md                  ← This file
+├── ArManBank.Console/ ← Main console app
+├── ArManBank.Domain/ ← Entities and models
+├── ArManBank.Data/ ← DbContext & EF migrations
+├── ArManBank.Services/ ← Business logic layer
+└── README.md ← This file
 
 💡 Educational Purpose
 This project is intended to demonstrate and practice:
