@@ -81,5 +81,5 @@ Open an issue or submit a pull request if you have suggestions or improvements.
 📄 License
 MIT License – free for personal and educational use.
 
-👨‍💻 Author
+👨‍💻 Author:
 Built with ❤️ by ArManDS
