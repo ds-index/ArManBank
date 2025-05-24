@@ -56,6 +56,7 @@ ArManBank/
 ├── ArManBank.Services/ ← Business logic layer
 └── README.md ← This file
 ```
+! You need set your connection string in appsettings.json base on your database
 
 💡 Educational Purpose
 This project is intended to demonstrate and practice:
