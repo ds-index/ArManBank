@@ -38,8 +38,11 @@ A cross-platform **EF Core (Code-First)** console application designed to manage
 git clone https://github.com/YourUsername/ArManBank.git
 cd ArManBank
 ```
+Update the database connection string in appsettings.json
 ```bash
-Set Your DB Connection strings in appsettings.json file
+"ConnectionStrings": {
+  "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=YourDbName;Trusted_Connection=True;TrustServerCertificate=True;"
+}
 ```
 2. Apply Migrations & Create Database
 ```bash
