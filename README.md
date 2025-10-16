@@ -38,6 +38,9 @@ A cross-platform **EF Core (Code-First)** console application designed to manage
 git clone https://github.com/YourUsername/ArManBank.git
 cd ArManBank
 ```
+```bash
+Set Your DB Connection strings in appsettings.json file
+```
 2. Apply Migrations & Create Database
 ```bash
 dotnet ef database update
